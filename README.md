@@ -21,8 +21,8 @@
 
 ## Играть онлайн
 
-- Игра: <https://stravita-capital-iqk67nk8cc4.qoder.website>
-- Архив проекта (ZIP): <https://stravita-capital-iqk67nk8cc4.qoder.website/stravita-capital-game.zip>
+- Игра: <https://hezret5.github.io/stravita-capital-game/>
+- Архив проекта (ZIP): <https://hezret5.github.io/stravita-capital-game/stravita-capital-game.zip>
 
 ## Запуск на компьютере
 
@@ -51,7 +51,7 @@ npm run preview  # предпросмотр собранной версии
 
 ```html
 <iframe
-  src="https://stravita-capital-iqk67nk8cc4.qoder.website"
+  src="https://hezret5.github.io/stravita-capital-game/"
   width="390"
   height="844"
   style="border: 0"
